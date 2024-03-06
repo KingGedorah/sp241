@@ -23,7 +23,6 @@ ZCZC W03 L13 180 Assignment W03 #03
 ZCZC W03 L70 240 Studying for other courses.
 ZCZC W03 L88 240 Workout
 ZCZC W03 L84 420 Sleep
-ZCZC W03 L80 Watching movie
-ZCZC W03 L81 Listening to Music
- 
+ZCZC W03 L80 150 Watching movie
+ZCZC W03 L81 60 Listening to Music 
 
