@@ -18,5 +18,12 @@ ZCZC W02 L80 180 Watching movie
 ZCZC W02 L88 120 Workout
 ZCZC W02 L73 60 Gaming
 ZCZC W02 L41 10 Update mylog.txt
+ZCZC W03 L13 300 Assignment W03 #02
+ZCZC W03 L13 180 Assignment W03 #03
+ZCZC W03 L70 240 Studying for other courses.
+ZCZC W03 L88 240 Workout
+ZCZC W03 L84 420 Sleep
+ZCZC W03 L80 Watching movie
+ZCZC W03 L81 Listening to Music
  
 
