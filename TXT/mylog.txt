@@ -35,6 +35,9 @@ ZCZC W02 L88 120 Workout
 ZCZC W02 L73 60 Gaming
 ZCZC W02 L41 10 Update mylog.txt
 
+ZCZC W01 360 L62 Reinstall Virtual Debian Guest
+ZCZC W01 240 L63 Fixing Hardware Problems
+
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 15 L04 GitHub Pages related
 ZCZC W00 01 L04 GitHub Pages related
