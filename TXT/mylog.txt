@@ -4,7 +4,7 @@ ZCZC W05 L81 120 Listening to Music
 ZCZC W05 L08 60 OS Chat with friends
 ZCZC W05 L73 60 Playing Online Game
 ZCZC W05 L84 360 Taking a nap
-ZCZC W03 L80 150 Watching documentaries
+ZCZC W05 L80 150 Watching documentaries
 
 ZCZC W04 L13 300 Assignment W04
 ZCZC W04 L70 120 Studying for other courses.
