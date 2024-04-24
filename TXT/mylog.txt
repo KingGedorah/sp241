@@ -49,3 +49,10 @@ ZCZC W06 L08 60 OS Chat with friends
 ZCZC W06 L73 60 Playing Online Game
 ZCZC W06 L84 360 Taking a nap
 ZCZC W06 L80 150 Watching documentaries
+ZCZC W07 L13 480 Assignment W07
+ZCZC W07 L70 120 Studying for other courses.
+ZCZC W07 L88 120 Workout
+ZCZC W07 L80 180 Watching movie
+ZCZC W07 L81 60 Listening to Music
+ZCZC W07 L03 60 Github related
+ZCZC W07 L08 120 OS Chat with friends
