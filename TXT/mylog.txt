@@ -56,3 +56,10 @@ ZCZC W07 L80 180 Watching movie
 ZCZC W07 L81 60 Listening to Music
 ZCZC W07 L03 60 Github related
 ZCZC W07 L08 120 OS Chat with friends
+ZCZC W08 L13 600 Assignment W08
+ZCZC W08 L70 120 Studying for other courses.
+ZCZC W08 L81 60 Listening to Music
+ZCZC W08 L08 60 OS Chat with friends
+ZCZC W08 L73 60 Playing Online Game
+ZCZC W08 L84 360 Taking a nap
+ZCZC W08 L80 150 Watching documentaries
